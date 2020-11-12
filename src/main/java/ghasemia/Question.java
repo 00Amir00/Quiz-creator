@@ -1,7 +1,6 @@
 package ghasemia;
 
 /**
- * Assignment 3
  *
  * Program: Developing a class that models a multi-option question
  *
