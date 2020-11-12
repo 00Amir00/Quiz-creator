@@ -2,11 +2,9 @@ package ghasemia;
 
 /**
  *
- * Assignment 3
- *
  * Program : Developing a class that models a multi-option question
  *
- * This class name is Assign3Main, and it contains the main method.
+ * This class name is Main, and it contains the main method.
  *
  * @author Amirmahdi Ghasemi, July 2020
  */
